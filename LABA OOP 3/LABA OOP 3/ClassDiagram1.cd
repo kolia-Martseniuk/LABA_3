@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ship">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAQABEAAAAAAAQCEAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>LABA OOP 3.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Steamship">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>LABA OOP 3.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SailingShip">
+    <Position X="2" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAQABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LABA OOP 3.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Corvette" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAQAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>LABA OOP 3.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
