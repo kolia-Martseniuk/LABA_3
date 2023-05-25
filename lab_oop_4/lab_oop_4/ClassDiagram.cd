@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TObject">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>lab_oop_4.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="List::TItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>lab_oop_4.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAgAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>lab_oop_4.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllList">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>lab_oop_4.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ship">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>lab_oop_4.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShipList">
+    <Position X="3.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>lab_oop_4.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
